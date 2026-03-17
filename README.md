@@ -1,9 +1,10 @@
 <!-- Navegação de Idiomas -->
 <p align="right">
   Ler em: 
+  <a href="README.md">🇧🇷 Português</a> | 
   <a href="README.en.md">🇺🇸 English</a> | 
-  <a href="README.es.md">🇪🇸 Español</a> | 
-  <a href="README.md">🇧🇷 Português</a>
+  <a href="README.es.md">🇪🇸 Español</a> 
+  
 </p>
 
 # 🚀 build-your-github-repository
