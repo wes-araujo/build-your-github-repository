@@ -55,22 +55,33 @@ A estrutura física do seu repositório reflete diretamente o nível de profissi
 ├── 📁 docs/                  # Guias, artigos e tutoriais estendidos
 ├── 📁 assets/                # Imagens, logotipos e GIFs do projeto
 └── 📁 templates/             # Modelos de README prontos para uso
-🛠 Boas Práticas para README
+```
+
+## 🛠 Boas Práticas para README
+
 Para destacar seu repositório, algumas práticas são essenciais:
 Seja Conciso e Escaneável: Evite blocos de texto muito extensos ("muralhas de texto"). Se uma seção ficar muito longa, divida-a em subtítulos.
 Incorpore Imagens e GIFs: O cérebro humano processa imagens mais rápido que texto. Mostre como sua aplicação ou guia funciona utilizando GIFs ou capturas de tela.
 Use Badges: Os emblemas (badges) transmitem confiança imediata sobre o status do projeto, licença e ferramentas utilizadas.
 Acessibilidade em Primeiro Lugar: Adicione um texto alternativo (Alt text) em todas as imagens e GIFs para apoiar o uso de leitores de tela.
-💡 Exemplos
+
+## 💡 Exemplos
+
 A teoria é boa, mas a prática é melhor. Na pasta /templates você encontrará modelos prontos que poderá copiar e adaptar para as suas próprias aplicações. Os exemplos cobrem desde documentações de APIs (Back-end) até projetos de interface visual (Front-end).
-🔗 Recursos
+
+## 🔗 Recursos
+
 Ferramentas úteis para ajudar a montar seus próximos READMEs:
 Shields.io: Para gerar badges personalizados.
 Devicon: Biblioteca com ícones e logos de tecnologias e linguagens de programação.
 Emoji Cheat Sheet: Códigos rápidos para inserir emojis do GitHub na sua documentação.
-🤝 Contribuindo
+
+##🤝 Contribuindo
+
 Este é um projeto construído para a comunidade. Toda ajuda é muito bem-vinda! Para saber como contribuir enviando novos templates, corrigindo erros ou traduzindo o conteúdo, por favor, leia o nosso arquivo CONTRIBUTING.md. Nele detalhamos os passos para realizar o Fork, seguir nossos padrões de commit e enviar o seu Pull Request.
-📝 Licença
+
+##📝 Licença
+
 A ausência de uma licença é um impedimento legal para a adoção do software. Este projeto está protegido e distribuído sob a licença MIT. Isso significa que é livre para uso, modificação e distribuição, seja comercial ou não. Veja o arquivo LICENSE para detalhes.
 
 --------------------------------------------------------------------------------
