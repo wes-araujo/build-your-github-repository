@@ -76,11 +76,11 @@ Shields.io: Para gerar badges personalizados.
 Devicon: Biblioteca com ícones e logos de tecnologias e linguagens de programação.
 Emoji Cheat Sheet: Códigos rápidos para inserir emojis do GitHub na sua documentação.
 
-##🤝 Contribuindo
+## 🤝 Contribuindo
 
 Este é um projeto construído para a comunidade. Toda ajuda é muito bem-vinda! Para saber como contribuir enviando novos templates, corrigindo erros ou traduzindo o conteúdo, por favor, leia o nosso arquivo CONTRIBUTING.md. Nele detalhamos os passos para realizar o Fork, seguir nossos padrões de commit e enviar o seu Pull Request.
 
-##📝 Licença
+## 📝 Licença
 
 A ausência de uma licença é um impedimento legal para a adoção do software. Este projeto está protegido e distribuído sob a licença MIT. Isso significa que é livre para uso, modificação e distribuição, seja comercial ou não. Veja o arquivo LICENSE para detalhes.
 
