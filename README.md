@@ -74,9 +74,33 @@ Para facilitar sua jornada, deixamos modelos prontos para você copiar e usar:
 1. **Navegue até a nossa pasta** `/templates` aqui neste repositório.
 2. **Escolha o seu modelo favorito:** Você encontrará opções desde um perfil mais básico (focado em tecnologias e contatos) até um perfil avançado (com animações e estatísticas do GitHub).
 3. **Copie todo o código** do arquivo `.md` escolhido.
-4. **Crie seu repositório especial:** No menu superior do GitHub, clique no **+** e em *New repository*. Dê ao repositório **exatamente o seu nome de usuário**, certifique-se de que ele seja **Public** e marque a caixa **Add a README file** [1-4].
-5. **Cole e edite:** Abra o arquivo `README.md` que foi criado no seu novo repositório clicando no ícone de lápis [1, 2, 5]. Apague o texto original, cole o código que você copiou dos nossos templates e substitua as informações genéricas (como `SEU_NOME`, `SEU_USUARIO` ou links) pelos seus dados reais [2, 6].
-6. **Salve (Commit):** Vá até o final da página e clique em **Commit changes** para salvar [2, 7]. Visite seu perfil e veja a mágica acontecer!
+4. **Crie seu repositório especial:** No menu superior do GitHub, clique no **+** e em *New repository*. Dê ao repositório **exatamente o seu nome de usuário**, certifique-se de que ele seja **Public** e marque a caixa **Add a README file**.
+5. **Cole e edite:** Abra o arquivo `README.md` que foi criado no seu novo repositório clicando no ícone de lápis. Apague o texto original, cole o código que você copiou dos nossos templates e substitua as informações genéricas (como `SEU_NOME`, `SEU_USUARIO` ou links) pelos seus dados reais .
+6. **Salve (Commit):** Vá até o final da página e clique em **Commit changes** para salvar . Visite seu perfil e veja a mágica acontecer!
+
+## 📚 Fontes Utilizadas
+
+A construção deste guia não saiu do nada; ela foi baseada em uma curadoria cuidadosa de materiais oficiais, artigos da comunidade e tutoriais práticos. Abaixo estão as principais fontes que fundamentaram os conceitos apresentados neste repositório:
+
+### 📝 Documentações e Artigos (Texto)
+
+* **[Sobre repositórios - GitHub Docs](https://docs.github.com/pt/repositories/creating-and-managing-repositories/about-repositories)**
+  *Por que utilizei:* A documentação oficial é sempre a fonte da verdade. Utilizei este material para embasar os conceitos fundamentais do que é um repositório, visibilidade (público vs. privado) e boas práticas de gestão.
+* **[Criando um repositório remoto em GitHub - Alura](https://www.alura.com.br/artigos/criando-repositorio-remoto-github?srsltid=AfmBOooC3XHWlB4ROjRtwvA5gpcUG_FJZyhP7EOu1scaw0t84TElZ0kP)**
+  *Por que utilizei:* Este artigo é essencial para compreender como enviar dados de um repositório local para o remoto através de linhas de comando de forma prática.
+* **[Como criar um bom README.md? - DIO (por Nicole Arruda)](https://www.dio.me/articles/como-criar-um-bom-readmemd)**
+  *Por que utilizei:* Este artigo serviu como base para a estruturação do nosso template, detalhando a importância de tópicos cruciais como escopo de funcionalidades, tecnologias utilizadas e instruções de como rodar o projeto.
+
+### 🎥 Tutoriais e Aulas (Vídeo)
+
+* **[Primeiro repositório git e GitHub - Gustavo Guanabara (Curso em Vídeo)](https://www.youtube.com/watch?v=5BYm7UdCrX0)**
+  *Por que utilizei:* O professor Guanabara tem uma didática impecável para iniciantes. Usei esta aula como referência de como explicar a criação de repositórios locais e remotos de forma amigável e sem complicação.
+* **[COMO CRIAR SEU PRIMEIRO PROJETO NO GITHUB - Dev em Dobro](https://www.youtube.com/watch?v=iR6-3AT1WfE)**
+  *Por que utilizei:* Este vídeo foi escolhido por apresentar, na prática, duas abordagens para subir um projeto para o GitHub: um método mais rápido e visual (fazendo upload dos arquivos direto no site) e o método profissional utilizando os comandos do Git no terminal [1-3].
+* **[COMO CRIAR SEUS READMEs? GUIA DO README COMPLETO - Fernanda Kipper](https://www.youtube.com/watch?v=k4Rsy8GbKE0&t=1410s)**
+  *Por que utilizei:* Excelente material focado na "primeira impressão" que um portfólio passa. As dicas de formatação com *badges* e estrutura visual deste repositório foram altamente inspiradas nos exemplos trazidos pela Kipper.
+* **[Como personalizar o seu perfil no Github (Readme) - Rafaella Ballerini](https://www.youtube.com/watch?v=TsaLQAetPLU&t=15s)**
+  *Por que utilizei:* Escolhi este material porque ele ensina o passo a passo para criar o repositório "secreto" de perfil com exatamente o mesmo nome de usuário [5, 6], além de mostrar como enriquecer o arquivo com elementos visuais dinâmicos em Markdown, como ícones de redes sociais, estatísticas de uso do GitHub e GIFs animados [4, 7, 8].
 
 ## 🔗 Recursos
 
