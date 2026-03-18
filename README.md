@@ -73,6 +73,18 @@ Nesta seção, documento os prompts reais utilizados para planejar e construir a
 *   **💡 Análise e Aprendizado:**
     O grande diferencial deste prompt foi compartilhar a minha **motivação real**, a **dor do usuário** (dificuldade de achar tutoriais diretos) e o **público-alvo** (iniciantes). Ao fornecer esse nível profundo de intenção, a IA deixou de ser apenas uma "geradora de texto" e passou a atuar como uma verdadeira consultora. O aprendizado aqui é que detalhar o *porquê* você está construindo o projeto eleva absurdamente a qualidade da resposta, gerando um conteúdo muito mais empático, estratégico e alinhado com a cultura da comunidade Open Source.
 
+## 🧪 Dificuldades e Aprendizados (Troubleshooting)
+
+Durante a construção deste guia e a criação dos meus primeiros repositórios, enfrentei alguns desafios reais. Documento-os abaixo para demonstrar o meu processo de resolução de problemas e, quem sabe, ajudar outros iniciantes que possam passar pela mesma situação:
+
+### 🚨 Problema 1: Dificuldade na clareza dos Prompts com a IA
+* **O que aconteceu:** Em alguns momentos ao usar o NotebookLM, tive dificuldade de expressar exatamente a ideia que eu queria para o resultado final. A ferramenta gerava respostas boas, mas que ainda não atingiam a visão completa que eu tinha em mente.
+* **Como resolvi (Aprendizado):** Percebi que o erro não era da ferramenta, mas da forma como eu enviava as instruções. A solução foi abrir um bloco de notas, escrever tudo o que eu queria e fragmentar a ideia de forma muito mais clara. Após enviar essa ideia fragmentada e garantir que a IA havia entendido o escopo real, pedi que ela gerasse um **checklist**. Isso me permitiu executar etapa por etapa de forma focada, garantindo que nenhum detalhe passasse batido.
+
+### 🚨 Problema 2: Quebra de formatação no Markdown
+* **O que aconteceu:** Após obter a estrutura base do README através da IA, decidi fazer minhas próprias alterações e adições manuais. O objetivo era personalizar o documento sem depender 100% do NotebookLM para não perder o foco da nossa conversa principal. Porém, ao fazer essas edições, acabei quebrando a formatação do arquivo, gerando desalinhamentos visuais.
+* **Como resolvi (Aprendizado):** Ao invés de pedir para a IA consertar, decidi fazer o *troubleshooting* manual. Como o Markdown tem muita semelhança e aceita a sintaxe do HTML (como tags `<br>`, `<div>`, `<p>`, etc.), utilizei a minha base de conhecimento em marcação web para ler o código, encontrar os erros de fechamento e ajustar as quebras. No fim, consegui estruturar o README exatamente do meu jeito, ganhando muito mais autonomia na linguagem.
+
 ## 📂 Estrutura do Repositório
 
 A estrutura física do seu repositório reflete diretamente o nível de profissionalismo do projeto. Neste guia, utilizamos a seguinte organização comum no desenvolvimento de software:
