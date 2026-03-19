@@ -22,11 +22,15 @@ O arquivo README é frequentemente o primeiro item que um visitante ou recrutado
 
 O projeto **build-your-github-repository** é um guia interativo, criado com o apoio do NotebookLM, que tem como objetivo ensinar desenvolvedores a configurar repositórios do zero e a documentar projetos com excelência. Um bom README deve responder de forma rápida o que o projeto faz, por que ele é útil e como as pessoas podem utilizá-lo. 
 
+---
+
 ## 🎯 Por que este Guia Existe
 
 Sabemos que o início na área de tecnologia é repleto de desafios. A criação de repositórios e a escrita de bons READMEs não precisam ser um deles. 
 
 Este guia foi criado para que você não perca tempo buscando tutoriais dispersos ou longos vídeos em plataformas. A eficácia de um projeto muitas vezes é medida pela sua capacidade de comunicar seu valor nos primeiros dez segundos de leitura. Portanto, nosso foco é fornecer uma ferramenta interativa e direta para você colocar a mão na massa imediatamente.
+
+---
 
 ## ✨ O que Você Vai Aprender
 
@@ -35,6 +39,8 @@ Este guia foi criado para que você não perca tempo buscando tutoriais disperso
 - **Acessibilidade e SEO:** Como usar textos alternativos para imagens (Alt text), hierarquia correta de cabeçalhos e otimização para a busca do próprio GitHub.
 - **Elementos Visuais:** A importância de integrar badges, GIFs de demonstração e tabelas para facilitar o entendimento.
 
+---
+
 ## 📚 Estrutura do Guia
 
 O conteúdo deste repositório foi estruturado pensando nas reais necessidades de aprendizado de quem está começando:
@@ -42,6 +48,8 @@ O conteúdo deste repositório foi estruturado pensando nas reais necessidades d
 1. **Tutoriais Iniciais:** Passos orientados para que você consiga seus primeiros resultados rapidamente no GitHub.
 2. **Guias de "Como Fazer":** Resoluções de problemas específicos e pontuais sobre gestão de repositórios.
 3. **Explicações e Boas Práticas:** Os motivos pelos quais a comunidade de código aberto prefere determinadas abordagens.
+
+---
 
 ## 🤖 Engenharia de Prompts
 
@@ -72,6 +80,8 @@ Nesta seção, documento os prompts reais utilizados para planejar e construir a
 
 *   **💡 Análise e Aprendizado:**
     O grande diferencial deste prompt foi compartilhar a minha **motivação real**, a **dor do usuário** (dificuldade de achar tutoriais diretos) e o **público-alvo** (iniciantes). Ao fornecer esse nível profundo de intenção, a IA deixou de ser apenas uma "geradora de texto" e passou a atuar como uma verdadeira consultora. O aprendizado aqui é que detalhar o *porquê* você está construindo o projeto eleva absurdamente a qualidade da resposta, gerando um conteúdo muito mais empático, estratégico e alinhado com a cultura da comunidade Open Source.
+
+---
 
 ## ♻️ Prompts Reutilizáveis (Copie e Cole)
 
@@ -105,6 +115,8 @@ Use este prompt para transformar o seu projeto comum em um ímã de oportunidade
 
 > "Atue como um Tech Recruiter especializado em contratar desenvolvedores juniores. Me explique de forma direta por que ter um repositório bem estruturado no GitHub me ajuda a ganhar destaque em processos seletivos. Liste **[INSERIR NÚMERO, ex: 3 a 5]** elementos visuais ou técnicos (como organização de pastas, qualidade do README e boas mensagens de commit) que os recrutadores avaliam primeiro ao abrir o meu perfil. Dê dicas práticas de como aplicar isso no meu projeto focado em **[INSERIR TEMA DO SEU PROJETO]**."
 
+---
+
 ## 🧪 Dificuldades e Aprendizados (Troubleshooting)
 
 Durante a construção deste guia e a criação dos meus primeiros repositórios, enfrentei alguns desafios reais. Documento-os abaixo para demonstrar o meu processo de resolução de problemas e, quem sabe, ajudar outros iniciantes que possam passar pela mesma situação:
@@ -116,6 +128,8 @@ Durante a construção deste guia e a criação dos meus primeiros repositórios
 ### 🚨 Problema 2: Quebra de formatação no Markdown
 * **O que aconteceu:** Após obter a estrutura base do README através da IA, decidi fazer minhas próprias alterações e adições manuais. O objetivo era personalizar o documento sem depender 100% do NotebookLM para não perder o foco da nossa conversa principal. Porém, ao fazer essas edições, acabei quebrando a formatação do arquivo, gerando desalinhamentos visuais.
 * **Como resolvi (Aprendizado):** Ao invés de pedir para a IA consertar, decidi fazer o *troubleshooting* manual. Como o Markdown tem muita semelhança e aceita a sintaxe do HTML (como tags `<br>`, `<div>`, `<p>`, etc.), utilizei a minha base de conhecimento em marcação web para ler o código, encontrar os erros de fechamento e ajustar as quebras. No fim, consegui estruturar o README exatamente do meu jeito, ganhando muito mais autonomia na linguagem.
+
+---
 
 ## 📖 Glossário para Iniciantes
 
@@ -152,6 +166,8 @@ A estrutura ideal de uma mensagem de commit deve ser curta, direta e preferencia
 * **`docs:`** Usado para alterações exclusivas na documentação, como no arquivo README (ex: `docs: atualiza a seção de instalação`).
 * **`chore:`** Tarefas de manutenção ou configuração que não alteram o código do usuário (ex: `chore: atualiza dependências do projeto`).
 
+---
+
 ## 📂 Estrutura do Repositório
 
 A estrutura física do seu repositório reflete diretamente o nível de profissionalismo do projeto. Neste guia, utilizamos a seguinte organização comum no desenvolvimento de software:
@@ -166,6 +182,8 @@ A estrutura física do seu repositório reflete diretamente o nível de profissi
 └── 📁 templates/             # Modelos de README prontos para uso
 ```
 
+---
+
 ## 💡 Como Usar Nossos Templates de Perfil
 
 Você sabia que o GitHub possui um recurso "secreto"? Se você **criar um repositório com o exato mesmo nome do seu usuário**, o arquivo `README.md` dele aparecerá em destaque na sua página inicial do GitHub. É a oportunidade perfeita para criar um portfólio incrível e se destacar para recrutadores e outros desenvolvedores!
@@ -178,6 +196,8 @@ Para facilitar sua jornada, deixamos modelos prontos para você copiar e usar:
 4. **Crie seu repositório especial:** No menu superior do GitHub, clique no **+** e em *New repository*. Dê ao repositório **exatamente o seu nome de usuário**, certifique-se de que ele seja **Public** e marque a caixa **Add a README file**.
 5. **Cole e edite:** Abra o arquivo `README.md` que foi criado no seu novo repositório clicando no ícone de lápis. Apague o texto original, cole o código que você copiou dos nossos templates e substitua as informações genéricas (como `SEU_NOME`, `SEU_USUARIO` ou links) pelos seus dados reais .
 6. **Salve (Commit):** Vá até o final da página e clique em **Commit changes** para salvar . Visite seu perfil e veja a mágica acontecer!
+
+---
 
 ## 📚 Fontes Utilizadas
 
@@ -203,6 +223,8 @@ A construção deste guia não saiu do nada; ela foi baseada em uma curadoria cu
 * **[Como personalizar o seu perfil no Github (Readme) - Rafaella Ballerini](https://www.youtube.com/watch?v=TsaLQAetPLU&t=15s)**
   *Por que utilizei:* Escolhi este material porque ele ensina o passo a passo para criar o repositório "secreto" de perfil com exatamente o mesmo nome de usuário, além de mostrar como enriquecer o arquivo com elementos visuais dinâmicos em Markdown, como ícones de redes sociais, estatísticas de uso do GitHub e GIFs animados.
 
+---
+
 ## 🔗 Recursos
 
 Ferramentas úteis para ajudar a montar seus próximos READMEs:
@@ -210,13 +232,20 @@ Shields.io: Para gerar badges personalizados.
 Devicon: Biblioteca com ícones e logos de tecnologias e linguagens de programação.
 Emoji Cheat Sheet: Códigos rápidos para inserir emojis do GitHub na sua documentação.
 
+---
+
 ## 🤝 Contribuindo
 
 Este é um projeto construído para a comunidade. Toda ajuda é muito bem-vinda! Para saber como contribuir enviando novos templates, corrigindo erros ou traduzindo o conteúdo, por favor, leia o nosso arquivo CONTRIBUTING.md. Nele detalhamos os passos para realizar o Fork, seguir nossos padrões de commit e enviar o seu Pull Request.
+
+---
 
 ## 📝 Licença
 
 A ausência de uma licença é um impedimento legal para a adoção do software. Este projeto está protegido e distribuído sob a licença MIT. Isso significa que é livre para uso, modificação e distribuição, seja comercial ou não. Veja o arquivo LICENSE para detalhes.
 
---------------------------------------------------------------------------------
-Feito com 💙 para facilitar a sua jornada na tecnologia!
+---
+
+<p align="center">
+  Feito com 💙 para facilitar a sua jornada na tecnologia!
+</p>
