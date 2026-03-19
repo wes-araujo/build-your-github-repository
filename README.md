@@ -77,7 +77,7 @@ Nesta seção, documento os prompts reais utilizados para planejar e construir a
 
 Quer criar o seu próprio projeto, mas não sabe como pedir ajuda para a Inteligência Artificial? 
 
-Abaixo, disponibilizo os *templates* de Engenharia de Prompts que criei e aprimorei durante este guia. Você pode copiá-los, preencher as áreas entre colchetes com o contexto do seu projeto e colar no NotebookLM, ChatGPT ou Claude para obter resultados profissionais!
+Abaixo, disponibilizo os *templates* de Engenharia de Prompts que criei e aprimorei durante este guia. Você pode copiá-los, preencher as áreas entre colchetes com o contexto do seu projeto e colar no [NotebookLM](https://notebooklm.google.com/notebook/ac8eb143-f2b9-41e5-8421-70d1201df31a) para obter resultados profissionais!
 
 ### 1. Para estruturar o seu Repositório do Zero
 Use este prompt para transformar anotações soltas ou ideias em uma estrutura real de repositório:
