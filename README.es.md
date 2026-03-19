@@ -21,12 +21,14 @@ El archivo README es frecuentemente el primer elemento que un visitante o reclut
 
 El proyecto `build-your-github-repository` es una guía interactiva, creada con el apoyo de NotebookLM, que tiene como objetivo enseñar a los desarrolladores a configurar repositorios desde cero y a documentar proyectos con excelencia. Un buen README debe responder de forma rápida qué hace el proyecto, por qué es útil y cómo las personas pueden utilizarlo.
 
+---
 
 ## 🎯 Por qué existe esta Guía
 Sabemos que empezar en el área de tecnología está lleno de desafíos. La creación de repositorios y la escritura de buenos READMEs no tienen por qué ser uno de ellos.
 
 Esta guía fue creada para que no pierdas tiempo buscando tutoriales dispersos o videos largos en plataformas. La eficacia de un proyecto a menudo se mide por su capacidad de comunicar su valor en los primeros diez segundos de lectura. Por lo tanto, nuestro enfoque es proporcionar una herramienta interactiva y directa para que pongas manos a la obra de inmediato.
 
+---
 
 ## ✨ Lo que Aprenderás
 * **Fundamentos de GitHub:** Las principales prácticas para crear, editar y eliminar un repositorio correctamente.
@@ -34,6 +36,7 @@ Esta guía fue creada para que no pierdas tiempo buscando tutoriales dispersos o
 * **Accesibilidad y SEO:** Cómo usar textos alternativos para imágenes (Alt text), jerarquía correcta de encabezados y optimización para la búsqueda interna de GitHub.
 * **Elementos Visuales:** La importancia de integrar badges, GIFs de demostración y tablas para facilitar el entendimiento.
 
+---
 
 ## 📚 Estructura de la Guía
 El contenido de este repositorio fue estructurado pensando en las necesidades reales de aprendizaje de quienes están empezando:
