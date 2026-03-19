@@ -197,11 +197,11 @@ A construção deste guia não saiu do nada; ela foi baseada em uma curadoria cu
 * **[Primeiro repositório git e GitHub - Gustavo Guanabara (Curso em Vídeo)](https://www.youtube.com/watch?v=5BYm7UdCrX0)**
   *Por que utilizei:* O professor Guanabara tem uma didática impecável para iniciantes. Usei esta aula como referência de como explicar a criação de repositórios locais e remotos de forma amigável e sem complicação.
 * **[COMO CRIAR SEU PRIMEIRO PROJETO NO GITHUB - Dev em Dobro](https://www.youtube.com/watch?v=iR6-3AT1WfE)**
-  *Por que utilizei:* Este vídeo foi escolhido por apresentar, na prática, duas abordagens para subir um projeto para o GitHub: um método mais rápido e visual (fazendo upload dos arquivos direto no site) e o método profissional utilizando os comandos do Git no terminal [1-3].
+  *Por que utilizei:* Este vídeo foi escolhido por apresentar, na prática, duas abordagens para subir um projeto para o GitHub: um método mais rápido e visual (fazendo upload dos arquivos direto no site) e o método profissional utilizando os comandos do Git no terminal.
 * **[COMO CRIAR SEUS READMEs? GUIA DO README COMPLETO - Fernanda Kipper](https://www.youtube.com/watch?v=k4Rsy8GbKE0&t=1410s)**
   *Por que utilizei:* Excelente material focado na "primeira impressão" que um portfólio passa. As dicas de formatação com *badges* e estrutura visual deste repositório foram altamente inspiradas nos exemplos trazidos pela Kipper.
 * **[Como personalizar o seu perfil no Github (Readme) - Rafaella Ballerini](https://www.youtube.com/watch?v=TsaLQAetPLU&t=15s)**
-  *Por que utilizei:* Escolhi este material porque ele ensina o passo a passo para criar o repositório "secreto" de perfil com exatamente o mesmo nome de usuário [5, 6], além de mostrar como enriquecer o arquivo com elementos visuais dinâmicos em Markdown, como ícones de redes sociais, estatísticas de uso do GitHub e GIFs animados.
+  *Por que utilizei:* Escolhi este material porque ele ensina o passo a passo para criar o repositório "secreto" de perfil com exatamente o mesmo nome de usuário, além de mostrar como enriquecer o arquivo com elementos visuais dinâmicos em Markdown, como ícones de redes sociais, estatísticas de uso do GitHub e GIFs animados.
 
 ## 🔗 Recursos
 
