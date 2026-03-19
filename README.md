@@ -73,6 +73,38 @@ Nesta seção, documento os prompts reais utilizados para planejar e construir a
 *   **💡 Análise e Aprendizado:**
     O grande diferencial deste prompt foi compartilhar a minha **motivação real**, a **dor do usuário** (dificuldade de achar tutoriais diretos) e o **público-alvo** (iniciantes). Ao fornecer esse nível profundo de intenção, a IA deixou de ser apenas uma "geradora de texto" e passou a atuar como uma verdadeira consultora. O aprendizado aqui é que detalhar o *porquê* você está construindo o projeto eleva absurdamente a qualidade da resposta, gerando um conteúdo muito mais empático, estratégico e alinhado com a cultura da comunidade Open Source.
 
+## ♻️ Prompts Reutilizáveis (Copie e Cole)
+
+Quer criar o seu próprio projeto, mas não sabe como pedir ajuda para a Inteligência Artificial? 
+
+Abaixo, disponibilizo os *templates* de Engenharia de Prompts que criei e aprimorei durante este guia. Você pode copiá-los, preencher as áreas entre colchetes com o contexto do seu projeto e colar no NotebookLM, ChatGPT ou Claude para obter resultados profissionais!
+
+### 1. Para estruturar o seu Repositório do Zero
+Use este prompt para transformar anotações soltas ou ideias em uma estrutura real de repositório:
+
+> "Atue como um Engenheiro de Software Sênior. Me ajude a criar um repositório no GitHub para esse **[INSERIR SEU MATERIAL BASE, ex: Notebook de anotações, roteiro de projeto]**! Quero que o foco seja **[O SEU OBJETIVO, ex: ajudar iniciantes, servir como portfólio]**. Liste quais arquivos essenciais eu não posso esquecer de incluir, como o `.gitignore` e a Licença."
+
+---
+
+### 2. Para criar um README focado na Experiência do Usuário (UX)
+Use este prompt para criar uma documentação empática e voltada para resolver a dor de quem está lendo:
+
+> "Agora preciso criar um README para esse repositório. Criei este projeto pois sei que **[INSERIR SEU PÚBLICO-ALVO, ex: quem está começando na área de tecnologia]** encontra muitos desafios como **[INSERIR A DOR DO PÚBLICO, ex: a dificuldade em criar repositórios profissionais]**. Minha intenção é ter um guia interativo. Crie uma estrutura de README profissional baseada na regra de prender a atenção do leitor nos primeiros 10 segundos, utilizando emojis, badges e seções claras."
+
+---
+
+### 3. Para dominar os comandos do Terminal / Git
+Se você tem dificuldade em decorar comandos, use este prompt para a IA te dar um tutorial guiado e sem jargões complexos:
+
+> "Atue como um Professor de Programação com excelente didática. Crie um passo a passo prático de como inicializar e enviar meu primeiro projeto para o GitHub através do terminal **[INSERIR NOME DO TERMINAL, ex: Git Bash, Zsh, CMD]**. Em vez de apenas me dar os códigos, explique de forma simples e amigável o *porquê* de eu precisar usar cada comando (como `git init`, `git add .` e `git commit`), pensando que sou um iniciante na área."
+
+---
+
+### 4. Para entender a visão dos Recrutadores (Portfólio)
+Use este prompt para transformar o seu projeto comum em um ímã de oportunidades profissionais:
+
+> "Atue como um Tech Recruiter especializado em contratar desenvolvedores juniores. Me explique de forma direta por que ter um repositório bem estruturado no GitHub me ajuda a ganhar destaque em processos seletivos. Liste **[INSERIR NÚMERO, ex: 3 a 5]** elementos visuais ou técnicos (como organização de pastas, qualidade do README e boas mensagens de commit) que os recrutadores avaliam primeiro ao abrir o meu perfil. Dê dicas práticas de como aplicar isso no meu projeto focado em **[INSERIR TEMA DO SEU PROJETO]**."
+
 ## 🧪 Dificuldades e Aprendizados (Troubleshooting)
 
 Durante a construção deste guia e a criação dos meus primeiros repositórios, enfrentei alguns desafios reais. Documento-os abaixo para demonstrar o meu processo de resolução de problemas e, quem sabe, ajudar outros iniciantes que possam passar pela mesma situação:
