@@ -132,16 +132,25 @@ Se você está dando os primeiros passos no mundo da programação, alguns termo
 
 ---
 
+## 🛠 Boas Práticas do Repositório
+
+Para que seu projeto se destaque e ganhe a atenção de recrutadores e da comunidade, apliquei práticas essenciais de documentação e controle de versão.
+
+### 📄 Boas Práticas para README
+O README é o seu principal material de marketing técnico. Para criar um documento de alto impacto:
+* **Seja Conciso e Escaneável:** Evite blocos de texto muito extensos ("muralhas de texto"). Se uma seção ficar muito longa, divida-a em subtítulos para facilitar a leitura dinâmica.
+* **Incorpore Imagens e GIFs:** O cérebro humano processa imagens mais rápido que texto. Mostre como sua aplicação ou guia funciona utilizando GIFs ou capturas de tela.
+* **Use Badges:** Os emblemas (badges) transmitem confiança imediata sobre o status do projeto, licença e ferramentas utilizadas.
+* **Acessibilidade em Primeiro Lugar:** Adicione um texto alternativo (Alt text) descritivo em todas as imagens e GIFs para apoiar o uso de leitores de tela e promover inclusão.
+
 ### 💡 Boas Práticas de Commits
+O Commit funciona como um "ponto de salvamento" do seu projeto. Para que o histórico seja legível e profissional, é altamente recomendado seguir o padrão de **Conventional Commits** (Commits Convencionais), que facilita a leitura tanto para humanos quanto para automações.
 
-O **Commit** funciona como um "ponto de salvamento" do seu projeto. Para que o seu histórico seja profissional, é altamente recomendado seguir o padrão de **Conventional Commits** (Commits Convencionais), que facilita a leitura tanto para humanos quanto para automações. 
-
-A estrutura ideal de uma mensagem de commit deve ser curta, direta e preferencialmente no tempo presente ou imperativo (ex: "Cria página" em vez de "Criado página") [4, 5]. As categorias mais utilizadas são:
-
-*   **`feat:` (Feature):** Usado quando você adiciona uma nova funcionalidade ao projeto (ex: `feat: adiciona botão de login`).
-*   **`fix:`** Usado quando você corrige um bug ou erro na aplicação (ex: `fix: corrige o cálculo do carrinho`).
-*   **`docs:`** Usado para alterações exclusivas na documentação, como no README (ex: `docs: atualiza a seção de instalação`).
-*   **`chore:`** Tarefas de manutenção ou configuração que não alteram o código do usuário (ex: `chore: atualiza dependências do projeto`).
+A estrutura ideal de uma mensagem de commit deve ser curta, direta e preferencialmente no tempo presente ou imperativo (ex: "Cria página" em vez de "Criado página"). As categorias mais utilizadas são:
+* **`feat:`** (Feature): Usado quando você adiciona uma nova funcionalidade ao projeto (ex: `feat: adiciona botão de login`).
+* **`fix:`** Usado quando você corrige um bug ou erro na aplicação (ex: `fix: corrige o cálculo do carrinho`).
+* **`docs:`** Usado para alterações exclusivas na documentação, como no arquivo README (ex: `docs: atualiza a seção de instalação`).
+* **`chore:`** Tarefas de manutenção ou configuração que não alteram o código do usuário (ex: `chore: atualiza dependências do projeto`).
 
 ## 📂 Estrutura do Repositório
 
@@ -157,17 +166,9 @@ A estrutura física do seu repositório reflete diretamente o nível de profissi
 └── 📁 templates/             # Modelos de README prontos para uso
 ```
 
-## 🛠 Boas Práticas para README
-
-Para destacar seu repositório, algumas práticas são essenciais:
-Seja Conciso e Escaneável: Evite blocos de texto muito extensos ("muralhas de texto"). Se uma seção ficar muito longa, divida-a em subtítulos.
-Incorpore Imagens e GIFs: O cérebro humano processa imagens mais rápido que texto. Mostre como sua aplicação ou guia funciona utilizando GIFs ou capturas de tela.
-Use Badges: Os emblemas (badges) transmitem confiança imediata sobre o status do projeto, licença e ferramentas utilizadas.
-Acessibilidade em Primeiro Lugar: Adicione um texto alternativo (Alt text) em todas as imagens e GIFs para apoiar o uso de leitores de tela.
-
 ## 💡 Como Usar Nossos Templates de Perfil
 
-Você sabia que o GitHub possui um recurso "secreto"? Se você **criar um repositório com o exato mesmo nome do seu usuário**, o arquivo `README.md` dele aparecerá em destaque na sua página inicial do GitHub [1-3]. É a oportunidade perfeita para criar um portfólio incrível e se destacar para recrutadores e outros desenvolvedores!
+Você sabia que o GitHub possui um recurso "secreto"? Se você **criar um repositório com o exato mesmo nome do seu usuário**, o arquivo `README.md` dele aparecerá em destaque na sua página inicial do GitHub. É a oportunidade perfeita para criar um portfólio incrível e se destacar para recrutadores e outros desenvolvedores!
 
 Para facilitar sua jornada, deixamos modelos prontos para você copiar e usar:
 
@@ -200,7 +201,7 @@ A construção deste guia não saiu do nada; ela foi baseada em uma curadoria cu
 * **[COMO CRIAR SEUS READMEs? GUIA DO README COMPLETO - Fernanda Kipper](https://www.youtube.com/watch?v=k4Rsy8GbKE0&t=1410s)**
   *Por que utilizei:* Excelente material focado na "primeira impressão" que um portfólio passa. As dicas de formatação com *badges* e estrutura visual deste repositório foram altamente inspiradas nos exemplos trazidos pela Kipper.
 * **[Como personalizar o seu perfil no Github (Readme) - Rafaella Ballerini](https://www.youtube.com/watch?v=TsaLQAetPLU&t=15s)**
-  *Por que utilizei:* Escolhi este material porque ele ensina o passo a passo para criar o repositório "secreto" de perfil com exatamente o mesmo nome de usuário [5, 6], além de mostrar como enriquecer o arquivo com elementos visuais dinâmicos em Markdown, como ícones de redes sociais, estatísticas de uso do GitHub e GIFs animados [4, 7, 8].
+  *Por que utilizei:* Escolhi este material porque ele ensina o passo a passo para criar o repositório "secreto" de perfil com exatamente o mesmo nome de usuário [5, 6], além de mostrar como enriquecer o arquivo com elementos visuais dinâmicos em Markdown, como ícones de redes sociais, estatísticas de uso do GitHub e GIFs animados.
 
 ## 🔗 Recursos
 
