@@ -85,6 +85,32 @@ Durante a construção deste guia e a criação dos meus primeiros repositórios
 * **O que aconteceu:** Após obter a estrutura base do README através da IA, decidi fazer minhas próprias alterações e adições manuais. O objetivo era personalizar o documento sem depender 100% do NotebookLM para não perder o foco da nossa conversa principal. Porém, ao fazer essas edições, acabei quebrando a formatação do arquivo, gerando desalinhamentos visuais.
 * **Como resolvi (Aprendizado):** Ao invés de pedir para a IA consertar, decidi fazer o *troubleshooting* manual. Como o Markdown tem muita semelhança e aceita a sintaxe do HTML (como tags `<br>`, `<div>`, `<p>`, etc.), utilizei a minha base de conhecimento em marcação web para ler o código, encontrar os erros de fechamento e ajustar as quebras. No fim, consegui estruturar o README exatamente do meu jeito, ganhando muito mais autonomia na linguagem.
 
+## 📖 Glossário para Iniciantes
+
+Se você está dando os primeiros passos no mundo da programação, alguns termos podem parecer confusos. Aqui está uma tradução rápida das palavras mais usadas neste guia e no dia a dia com o GitHub:
+
+*   **Repositório (Repo):** É a pasta principal do seu projeto. É o local onde todos os seus códigos, arquivos e o histórico de alterações ficam armazenados. Pode ser local (no seu computador) ou remoto (na nuvem do GitHub).
+*   **Branch (Ramificação):** É uma versão paralela do seu código. Permite que você trabalhe em uma nova funcionalidade sem alterar ou quebrar o código principal do projeto.
+*   **Clone:** É o ato de baixar uma cópia completa de um repositório do GitHub para o seu computador, incluindo todo o histórico de versões.
+*   **Push (Empurrar):** É o comando usado para enviar os seus commits locais (do seu computador) para o repositório remoto (no GitHub).
+*   **Pull (Puxar):** É o comando usado para trazer as alterações que estão no GitHub para o seu computador local, mantendo tudo atualizado.
+*   **Fork (Bifurcação):** É uma cópia exata do repositório de outra pessoa para a sua conta do GitHub. Isso permite que você faça alterações livremente em projetos de terceiros sem afetar o projeto original.
+*   **Pull Request (PR):** Após fazer alterações em um *Branch* ou *Fork*, você abre um PR para solicitar que o dono do projeto revise o seu código e o junte (Merge) ao projeto principal.
+*   **Markdown (.md):** É uma linguagem de marcação simples usada para formatar textos na web. É o que usamos para colocar negrito, criar listas e adicionar imagens no arquivo README!
+
+---
+
+### 💡 Boas Práticas de Commits
+
+O **Commit** funciona como um "ponto de salvamento" do seu projeto. Para que o seu histórico seja profissional, é altamente recomendado seguir o padrão de **Conventional Commits** (Commits Convencionais), que facilita a leitura tanto para humanos quanto para automações. 
+
+A estrutura ideal de uma mensagem de commit deve ser curta, direta e preferencialmente no tempo presente ou imperativo (ex: "Cria página" em vez de "Criado página") [4, 5]. As categorias mais utilizadas são:
+
+*   **`feat:` (Feature):** Usado quando você adiciona uma nova funcionalidade ao projeto (ex: `feat: adiciona botão de login`).
+*   **`fix:`** Usado quando você corrige um bug ou erro na aplicação (ex: `fix: corrige o cálculo do carrinho`).
+*   **`docs:`** Usado para alterações exclusivas na documentação, como no README (ex: `docs: atualiza a seção de instalação`).
+*   **`chore:`** Tarefas de manutenção ou configuração que não alteram o código do usuário (ex: `chore: atualiza dependências do projeto`).
+
 ## 📂 Estrutura do Repositório
 
 A estrutura física do seu repositório reflete diretamente o nível de profissionalismo do projeto. Neste guia, utilizamos a seguinte organização comum no desenvolvimento de software:
