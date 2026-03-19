@@ -20,10 +20,14 @@ The README file is often the first thing a visitor or recruiter will see in your
 
 The build-your-github-repository project is an interactive guide, created with the support of NotebookLM, that aims to teach developers how to set up repositories from scratch and document projects with excellence. A good README should quickly answer what the project does, why it is useful, and how people can use it.
 
+---
+
 ## 🎯 Why this Guide Exists
 We know that starting out in the tech field is full of challenges. Creating repositories and writing good READMEs don't have to be one of them.
 
 This guide was created so you don't waste time searching for scattered tutorials or long videos on platforms. The effectiveness of a project is often measured by its ability to communicate its value in the first ten seconds of reading. Therefore, our focus is to provide a direct and interactive tool for you to get your hands dirty immediately.
+
+---
 
 ## ✨ What You Will Learn
 * **GitHub Fundamentals:** The core practices for creating, editing, and deleting a repository correctly.
@@ -31,12 +35,16 @@ This guide was created so you don't waste time searching for scattered tutorials
 * **Accessibility and SEO:** How to use alternative texts for images (Alt text), correct heading hierarchy, and optimization for GitHub's internal search.
 * **Visual Elements:** The importance of integrating badges, demo GIFs, and tables to facilitate understanding.
 
+---
+
 ## 📚 Guide Structure
 The content of this repository was structured with the real learning needs of beginners in mind:
 
 * **Initial Tutorials:** Guided steps so you can get your first results quickly on GitHub.
 * **"How-To" Guides:** Solutions for specific and punctual problems regarding repository management.
 * **Explanations and Best Practices:** The reasons why the open-source community prefers certain approaches.
+
+---
 
 ## 🤖 Prompt Engineering
 
@@ -88,6 +96,8 @@ Use this prompt to create empathetic documentation aimed at solving the reader's
 
 > "Now I need to create a README for this repository. I created this project because I know that **[INSERT YOUR TARGET AUDIENCE, e.g., those starting in the tech field]** face many challenges such as **[INSERT AUDIENCE'S PAIN POINT, e.g., the difficulty in creating professional repositories]**. My intention is to have an interactive guide. Create a professional README structure based on the rule of capturing the reader's attention in the first 10 seconds, using emojis, badges, and clear sections."
 
+---
+
 ### 3. To master Terminal / Git commands
 If you have trouble memorizing commands, use this prompt to have the AI give you a guided tutorial without complex jargon:
 
@@ -129,6 +139,8 @@ If you are taking your first steps in the programming world, some terms might se
 *   **Pull Request (PR):** After making changes in a *Branch* or *Fork*, you open a PR to request that the project owner review your code and merge it into the main project.
 *   **Markdown (.md):** It is a lightweight markup language used to format text on the web. It is what we use to make text bold, create lists, and add images to the README file!
 
+---
+
 ## 🛠 Repository Best Practices
 
 To make your project stand out and catch the attention of recruiters and the community, I applied essential documentation and version control practices.
@@ -155,7 +167,7 @@ The ideal structure of a commit message should be short, direct, and preferably 
 
 ---
 
-### 📂 Repository Structure
+## 📂 Repository Structure
 The physical structure of your repository directly reflects the project's level of professionalism. In this guide, we use the following common organization in software development:
 
 ```text
@@ -168,7 +180,9 @@ The physical structure of your repository directly reflects the project's level 
 └── 📁 templates/             # Ready-to-use README templates
 ```
 
-### 💡 How to Use Our Profile Templates
+---
+
+## 💡 How to Use Our Profile Templates
 
 Did you know that GitHub has a "secret" feature? If you create a repository with the exact same name as your username, its `README.md` file will be prominently displayed on your GitHub home page. It's the perfect opportunity to create an amazing portfolio and stand out to recruiters and other developers!
 
